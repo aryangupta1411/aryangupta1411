@@ -11,13 +11,16 @@
 
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangupta1411&label=Profile%20views&color=0e75b6&style=flat" alt="aryangupta1411" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=aryangupta1411&label=Profile%20views&color=0e75b6&style=flat" alt="aryangupta1411" width="150" height="30" />
+</p>
 
 <!-- Social Media Badges -->
 <p align="left"> 
-  <a href="https://twitter.com/aryangupta1411" target="blank"><img src="https://img.shields.io/twitter/follow/aryangupta1411?logo=twitter&style=for-the-badge" alt="aryangupta1411" /></a> 
+  <a href="https://twitter.com/aryangupta1411" target="blank">
+    <img src="https://img.shields.io/twitter/follow/aryangupta1411?logo=twitter&style=for-the-badge" alt="aryangupta1411" width="250" height="30" />
+  </a> 
 </p>
-
 
 <!-- About Me Section -->
 - 💬 Ask me about **Python, AWS, GCP, UI/UX Design, and Web Development**
