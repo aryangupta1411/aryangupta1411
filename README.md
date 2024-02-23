@@ -115,11 +115,11 @@
 <!-- GitHub Stats Section -->
 <div align="center">
 
-  <!-- Top Languages Card -->
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangupta1411&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
-
   <!-- GitHub Stats Card -->
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aryangupta1411&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+  
+  <!-- Top Languages Card -->
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangupta1411&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
 
   <!-- GitHub Streak Stats Card -->
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta1411&theme=dark" alt="GitHub Streak Stats" /></p>
